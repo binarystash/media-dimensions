@@ -2,7 +2,7 @@
 
 #Media Dimensions
 
-Media Dimensions is a wordpress plugin that width and height columns to the Wordpress media library. Common file types are supported:
+Media Dimensions is a wordpress plugin that shows width and height columns to the Wordpress media library. Common file types are supported:
 
 * .jpg
 * .jpeg
