@@ -19,6 +19,10 @@ Media Dimensions is a wordpress plugin that shows width and height columns to th
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. The new columns should appear in the media library
 
+## Compatibility
+
+Wordpress 3.6 to 3.9.1
+
 ## Support
 
 Report bugs at https://github.com/binarystash/media-dimensions/issues.
