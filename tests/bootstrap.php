@@ -11,3 +11,8 @@ function _manually_load_plugin() {
 tests_add_filter( 'muplugins_loaded', '_manually_load_plugin' );
 
 require $_tests_dir . '/includes/bootstrap.php';
+
+//Load classes to be tested
+
+require_once MEDIA_DIMENSIONS_DIR . 'classes/class-media-dimensions-image.php';
+require_once MEDIA_DIMENSIONS_DIR . 'classes/class-media-dimensions-video.php';
