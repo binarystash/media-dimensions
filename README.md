@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/binarystash/wp-publish-notifications.svg?branch=master)](https://travis-ci.org/binarystash/wp-publish-notifications)
+[![Build Status](https://travis-ci.org/binarystash/media-dimensions.svg?branch=master)](https://travis-ci.org/binarystash/media-dimensions)
 
 #Media Dimensions
 
